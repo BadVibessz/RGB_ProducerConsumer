@@ -1,0 +1,6 @@
+C:\Users\danil\source\repos\RGB_ProducerConsumer\AnimationLibrary\bin\Debug\AnimationLibrary.dll
+C:\Users\danil\source\repos\RGB_ProducerConsumer\AnimationLibrary\bin\Debug\AnimationLibrary.pdb
+C:\Users\danil\source\repos\RGB_ProducerConsumer\AnimationLibrary\obj\Debug\AnimationLibrary.csproj.AssemblyReference.cache
+C:\Users\danil\source\repos\RGB_ProducerConsumer\AnimationLibrary\obj\Debug\AnimationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\danil\source\repos\RGB_ProducerConsumer\AnimationLibrary\obj\Debug\AnimationLibrary.dll
+C:\Users\danil\source\repos\RGB_ProducerConsumer\AnimationLibrary\obj\Debug\AnimationLibrary.pdb

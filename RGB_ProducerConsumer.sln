@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGB_ProducerConsumer", "RGB_ProducerConsumer.csproj", "{9A45203D-3754-4757-B0A4-B1FF41C6C8BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataProducerConsumerLibrary", "DataProducerConsumerLibrary\DataProducerConsumerLibrary.csproj", "{BCB772FC-3475-4358-BB47-7DFEAE2C434D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimationLibrary", "AnimationLibrary\AnimationLibrary.csproj", "{70BE14C4-7F90-4CAE-BE3C-54A5A9038022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A45203D-3754-4757-B0A4-B1FF41C6C8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A45203D-3754-4757-B0A4-B1FF41C6C8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A45203D-3754-4757-B0A4-B1FF41C6C8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A45203D-3754-4757-B0A4-B1FF41C6C8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCB772FC-3475-4358-BB47-7DFEAE2C434D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB772FC-3475-4358-BB47-7DFEAE2C434D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB772FC-3475-4358-BB47-7DFEAE2C434D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB772FC-3475-4358-BB47-7DFEAE2C434D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70BE14C4-7F90-4CAE-BE3C-54A5A9038022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BE14C4-7F90-4CAE-BE3C-54A5A9038022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BE14C4-7F90-4CAE-BE3C-54A5A9038022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BE14C4-7F90-4CAE-BE3C-54A5A9038022}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
